@@ -1,0 +1,7 @@
+                       score
+Quality/Six Sigma          0
+Operations management      0
+Supply chain               0
+Project management         0
+Data analytics             0
+Healthcare                 0
